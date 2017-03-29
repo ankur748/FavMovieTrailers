@@ -1,3 +1,7 @@
+To work on this project, issue the following command to get the repository
+
+git clone https://github.com/ankur748/FavMovieTrailers.git
+
 This project can be used to display all your favorite movie trailers in an html page
 
 - We need three sets of information to display the trailers
